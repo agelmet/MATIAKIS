@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/matiakis-kardiologos-logo.svg"
+ },
+ "source_md5": "e5263f6e47cceefe8c8c9d692d82ad85",
+ "version": "78b842d8",
+ "tile": "#182030",
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "44849a2c0ee242f4e10383f2ae520dbb"
+ ],
+ "made": "2026-10-14"
+}
